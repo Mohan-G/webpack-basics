@@ -11,7 +11,7 @@ Download the app from releases page
 
 Go to the app directory and install the packages:
 
-
+Demo to git
 
 npm install
 
